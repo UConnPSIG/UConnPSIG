@@ -3,7 +3,9 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<!-- TODO: use https://formspree.io/{{site.email}} -->
+
+<form action="https://getform.io/f/fe2e1100-dd16-44a8-aeeb-6618305e0aa9" method="POST">    
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
