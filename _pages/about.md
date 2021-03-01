@@ -1,8 +1,6 @@
 ---
 title: "About"
-layout: default
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
 comments: true
 ---
 
