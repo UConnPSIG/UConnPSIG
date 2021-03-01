@@ -4,7 +4,7 @@ description: 'University of Connecticut Plastic Surgery Interest Group'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
-disqus: 'UConnPSIG'
+disqus: 'https-uconnpsig-github-io'
 email: 'uconnstudentplastics@gmail.com'
 mailchimp-list: ''
 
