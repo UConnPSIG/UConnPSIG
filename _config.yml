@@ -3,7 +3,7 @@ name: 'UConnPSIG'
 description: 'University of Connecticut Plastic Surgery Interest Group'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://uconnpsig.github.io/'
+baseurl: 'https://uconnpsig.github.io'
 disqus: 'https-uconnpsig-github-io'
 email: 'uconnstudentplastics@gmail.com'
 mailchimp-list: ''
@@ -35,7 +35,7 @@ authors:
       email:          whittall@uchc.edu
       twitter:  
 
-    ian:
+    maria:
       name:           Maria Slater
       site:           
       avatar:         /assets/images/maria.jpg
