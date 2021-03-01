@@ -19,21 +19,45 @@ plugins:
   - jekyll-seo-tag
   
 authors:
+    jillian:
+      name:           Dr. Jillian Fortier
+      site:           
+      avatar:         /assets/images/jillian.jpg
+      bio:            "Faculty Advisor, Plastic Surgeon, Assistant Professor of Surgery"
+      email:          jfortier@uchc.edu
+      twitter: 
+
+    ian:
+      name:           Ian Whittall
+      site:           
+      avatar:         /assets/images/ian.jpg
+      bio:            "MS3, Co-founder"
+      email:          whittall@uchc.edu
+      twitter:  
+
+    ian:
+      name:           Maria Slater
+      site:           
+      avatar:         /assets/images/maria.jpg
+      bio:            "MS3, Co-founder"
+      email:          mslater@uchc.edu
+      twitter:  
+    
     newlyn:
       name:           Newlyn Joseph
-      site:           https://www.wowthemes.net
+      site:           
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "I'm a 2nd year medical student interested in reconstructive plastic surgery. When he’s not studying or at clinic he enjoys binging Botched and catching up on sleep. I enjoy cooking, playing guitar, and swimming in my down time."
+      email:          nejoseph@uchc.edu
+      twitter:        https://twitter.com/newlynjoseph
 
     annie:
       name:           Annie Jin
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      site:           
+      avatar:         /assets/images/annie.png
+      bio:            "My name is Annie Jin and I am a second year medical student at the University of Connecticut. I am from Connecticut, and in my free time I enjoy running, drawing, cooking, and dancing."
+      email:          ajin@uchc.edu
+      twitter:        
  
 # Defaults
 defaults:
